@@ -5,7 +5,7 @@ title: Erwan Lecarpentier
 
 # Welcome to my home page
 
-Hi, I am a third year PhD student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/) in the awesome city of Toulouse. I am honored to work under supervision of Dr. [Emmanuel Rachelson](https://people.isae-supaero.fr/emmanuel-rachelson?lang=en), Dr. [Guillaume Infantes](https://www.onera.fr/en/node/3138), and Dr. [Charles Lesire](https://www.onera.fr/en/node/3104).
+Hi, I am a third year PhD student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/) in the awesome city of Toulouse. I am honored to work under supervision of Dr. [Emmanuel Rachelson](https://people.isae-supaero.fr/emmanuel-rachelson?lang=en), Dr. [Guillaume Infantes](https://scholar.google.fr/citations?user=CyD_G68AAAAJ&hl=en), and Dr. [Charles Lesire](https://www.onera.fr/en/node/3104).
 
 I am interested in Artificial Intelligence and was introduced to the field via the Reinforcement Learning (RL) paradigm. Currently, I am working on Non-Stationary Markov Decision Processes (MDPs). I view the evolution in two different ways: 1) when it changes continuously, this is a robot trying to surf on a wave; 2) when it changes abruptly, this is a robot in a lifelong RL world.
 
@@ -13,15 +13,15 @@ I am interested in Artificial Intelligence and was introduced to the field via t
 
 Some RL environments I created:
 
-**Dyna Gym**
+[**Dyna Gym**](https://github.com/SuReLI/dyna-gym)
 This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit.<br/>
 [**Github**](https://github.com/SuReLI/dyna-gym)
 
-**Flatland environment**
+[**Flatland environment**](https://github.com/erwanlecarpentier/flatland)
 A C++ library for navigation task in a 2D environment. The settings enable the use of different policies, environments and action spaces. Choice of state space is also made available so that the agent can either evolve within a discrete gridworld or a continuous-state world.<br/>
-[**Github**](https://github.com/erwanlecarpentier/flatland)
+<a href="https://github.com/erwanlecarpentier/flatland"><img class="link_icon_button" src="img/github_logo.png"></a>
 
-**Learning2Fly**
+[**Learning2Fly**](https://github.com/erwanlecarpentier/l2f)
 A C++ library simulating the flight of a glider UAV within a non-stationary atmosphere featuring thermal currents. The used dynamics model is borrowed from [Beeler et al. 2003](https://ntrs.nasa.gov/search.jsp?R=20040031358).<br/>
 [**Github**](https://github.com/erwanlecarpentier/l2f)
 

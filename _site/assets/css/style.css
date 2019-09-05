@@ -213,5 +213,6 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   header li, header ul li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 .link_icon_button { width: 40px; height: 40px; margin: 0 10px; cursor: pointer; }
+.small_link_icon_button { width: 20px; height: 20px; margin: 0 10px; cursor: pointer; }
 
 .link_icon_wrapper { display: inline-block; }

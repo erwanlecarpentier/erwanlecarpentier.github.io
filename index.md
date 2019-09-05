@@ -15,7 +15,7 @@ Some RL environments I created:
 
 [**Dyna Gym**](https://github.com/SuReLI/dyna-gym)
 This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit.<br/>
-[**Github**](https://github.com/SuReLI/dyna-gym)
+<a href="https://github.com/SuReLI/dyna-gym"><img class="link_icon_button" src="img/github_logo.png"></a>
 
 [**Flatland environment**](https://github.com/erwanlecarpentier/flatland)
 A C++ library for navigation task in a 2D environment. The settings enable the use of different policies, environments and action spaces. Choice of state space is also made available so that the agent can either evolve within a discrete gridworld or a continuous-state world.<br/>
@@ -23,11 +23,11 @@ A C++ library for navigation task in a 2D environment. The settings enable the u
 
 [**Learning2Fly**](https://github.com/erwanlecarpentier/l2f)
 A C++ library simulating the flight of a glider UAV within a non-stationary atmosphere featuring thermal currents. The used dynamics model is borrowed from [Beeler et al. 2003](https://ntrs.nasa.gov/search.jsp?R=20040031358).<br/>
-[**Github**](https://github.com/erwanlecarpentier/l2f)
+<a href="https://github.com/erwanlecarpentier/l2f"><img class="link_icon_button" src="img/github_logo.png"></a>
 
 **Traveler**
 Traveler is a graph-based non-stationary MDP simulating travels between waypoints. Each node of the graph represents a location and each edge a route between locations. The travel duration corresponding to an edge is time-dependent, making the environment non-stationary. The goal of an agent is to reach a unique termination node as quickly as possible.<br/>
-[**Github**](https://github.com/erwanlecarpentier/traveler)
+<a href="https://github.com/erwanlecarpentier/traveler"><img class="link_icon_button" src="img/github_logo.png"></a>
 
 # Publications
 

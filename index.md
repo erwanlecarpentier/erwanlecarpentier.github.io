@@ -32,7 +32,7 @@ Traveler is a graph-based non-stationary MDP simulating travels between waypoint
 # Publications
 
 2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019<br/>
-[**Preprint**](https://arxiv.org/abs/1904.10090)
+[**NeurIPS**](https://arxiv.org/abs/1904.10090) - [**Preprint**](https://arxiv.org/abs/1904.10090)
 
 2018 Erwan Lecarpentier, Guillaume Infantes, Charles Lesire, and Emmanuel Rachelson. Open loop execution of tree-search algorithms. In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018<br/>
 [**IJCAI**](https://www.ijcai.org/proceedings/2018/0327.pdf) - [**PDF**](https://erwanlecarpentier.github.io/18openloop.pdf)

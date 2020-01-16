@@ -32,7 +32,7 @@ Traveler is a graph-based non-stationary MDP simulating travels between waypoint
 # Publications
 
 2020 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. Submitted.<br/>
-[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf)
+[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
 
 2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019<br/>
 [**NeurIPS**](https://papers.nips.cc/paper/8942-non-stationary-markov-decision-processes-a-worst-case-approach-using-model-based-reinforcement-learning) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier19non.pdf) - [**arXiv**](https://arxiv.org/abs/1904.10090)

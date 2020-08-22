@@ -5,9 +5,12 @@ title: Erwan Lecarpentier
 
 # Welcome to my home page
 
-Hi, I am a third year PhD student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/) in the awesome city of Toulouse. I am honored to work under supervision of Prof. [Emmanuel Rachelson](https://people.isae-supaero.fr/emmanuel-rachelson?lang=en), Dr. [Guillaume Infantes](https://scholar.google.fr/citations?user=CyD_G68AAAAJ&hl=en), and Dr. [Charles Lesire](https://www.onera.fr/en/node/3104).
+Hi, I just completed my PhD in Computer Sciences on the topic of "Reinforcement Learning in Non-Stationary Markov Decision Processes". The thesis was carried out at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/) in the awesome city of Toulouse. I was honored to work under supervision of Prof. [Emmanuel Rachelson](https://people.isae-supaero.fr/emmanuel-rachelson?lang=en), Dr. [Guillaume Infantes](https://scholar.google.fr/citations?user=CyD_G68AAAAJ&hl=en), and Dr. [Charles Lesire](https://www.onera.fr/en/node/3104).
 
-I am interested in Artificial Intelligence and was introduced to the field via the Reinforcement Learning (RL) paradigm. Currently, I am working on Non-Stationary Markov Decision Processes (MDPs) which is the topic of my thesis.
+I am interested in Artificial Intelligence and was introduced to the field via the Reinforcement Learning (RL) paradigm. Currently, I am focusing on several different questions, including the following:
+- How to build efficient state and/or action abstractions to prune the complexity of an RL task? Precisely, I am interested in ways to formalize a good optimization criterion that would produce those abstractions. I am thinking about criteria that would be similar to the one human could use (e.g. bio-inspired), instead of criteria that would optimize directly an objective such as the discounted sum of rewards in an MDP.
+- How to build RL algorithms that realize a trade-off between performance guarantees and level of approximation? Mostly, existing algorithms are ON/OFF, i.e. they are either exact/tabular and feature a high sample complexity, or they use function approximators that make them efficient but implies losing the performance guarantees. Could an in-between exist?
+- How to build good metrics to measure MDP similarities? Such a tool could be used to build efficient transfer learning methods (see [our work on Lifelong RL](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf)). A key point would be to learn to detect good features of MDPs that indicate the possibility of knowledge transfer.
 
 # Coding
 

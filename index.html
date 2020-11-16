@@ -12,6 +12,23 @@ I am interested in Artificial Intelligence and was introduced to the field via t
 - How to build RL algorithms that realize a trade-off between performance guarantees and level of approximation? Mostly, existing algorithms are ON/OFF, i.e. they are either exact/tabular and feature a high sample complexity, or they use function approximators that make them efficient but implies losing the performance guarantees. Could an in-between exist?
 - How to build good metrics to measure MDP similarities? Such a tool could be used to build efficient transfer learning methods (see [our work on Lifelong RL](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf)). A key point would be to learn to detect good features of MDPs that indicate the possibility of knowledge transfer.
 
+# Publications
+
+2020 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. Submitted.<br/>
+[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
+
+2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019<br/>
+[**NeurIPS**](https://papers.nips.cc/paper/8942-non-stationary-markov-decision-processes-a-worst-case-approach-using-model-based-reinforcement-learning) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier19non.pdf) - [**arXiv**](https://arxiv.org/abs/1904.10090)
+
+2018 Erwan Lecarpentier, Guillaume Infantes, Charles Lesire, and Emmanuel Rachelson. Open loop execution of tree-search algorithms. In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018<br/>
+[**IJCAI**](https://www.ijcai.org/proceedings/2018/0327.pdf) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier18openloop.pdf) - [**arXiv**](https://arxiv.org/abs/1805.01367)
+
+2017 Erwan Lecarpentier, Sebastian Rapp, Marc Melo and Emmanuel Rachelson. Empirical evaluation of a Q-Learning Algorithm for Model-free Autonomous Soaring. In JFPDA 2017.<br/>
+[**JFPDA**](https://pfia2017.greyc.fr/share/actes/JFPDA/Lecarpentier_JFPDA_2017.pdf) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier17empirical.pdf) - [**arXiv**](https://arxiv.org/abs/1707.05668)
+
+PhD Thesis: Reinforcement Learning in Non-Stationary Environments<br/>
+[**PDF**](https://erwanlecarpentier.github.io/pdf/phdthesis.pdf)
+
 # Coding
 
 Some RL environments I created:
@@ -31,18 +48,4 @@ A C++ library simulating the flight of a glider UAV within a non-stationary atmo
 [**Traveler**](https://github.com/erwanlecarpentier/traveler)
 Traveler is a graph-based non-stationary MDP simulating travels between waypoints. Each node of the graph represents a location and each edge a route between locations. The travel duration corresponding to an edge is time-dependent, making the environment non-stationary. The goal of an agent is to reach a unique termination node as quickly as possible.<br/>
 <a href="https://github.com/erwanlecarpentier/traveler"><img class="small_link_icon_button" src="img/github_logo.png"></a>
-
-# Publications
-
-2020 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. Submitted.<br/>
-[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
-
-2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019<br/>
-[**NeurIPS**](https://papers.nips.cc/paper/8942-non-stationary-markov-decision-processes-a-worst-case-approach-using-model-based-reinforcement-learning) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier19non.pdf) - [**arXiv**](https://arxiv.org/abs/1904.10090)
-
-2018 Erwan Lecarpentier, Guillaume Infantes, Charles Lesire, and Emmanuel Rachelson. Open loop execution of tree-search algorithms. In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018<br/>
-[**IJCAI**](https://www.ijcai.org/proceedings/2018/0327.pdf) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier18openloop.pdf) - [**arXiv**](https://arxiv.org/abs/1805.01367)
-
-2017 Erwan Lecarpentier, Sebastian Rapp, Marc Melo and Emmanuel Rachelson. Empirical evaluation of a Q-Learning Algorithm for Model-free Autonomous Soaring. In JFPDA 2017.<br/>
-[**JFPDA**](https://pfia2017.greyc.fr/share/actes/JFPDA/Lecarpentier_JFPDA_2017.pdf) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier17empirical.pdf) - [**arXiv**](https://arxiv.org/abs/1707.05668)
 

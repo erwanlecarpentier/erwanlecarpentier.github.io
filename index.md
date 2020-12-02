@@ -14,7 +14,7 @@ I am interested in Artificial Intelligence and was introduced to the field via t
 
 # Publications
 
-2020 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. Submitted.<br/>
+2021 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI~2021).<br/>
 [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
 
 2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019<br/>

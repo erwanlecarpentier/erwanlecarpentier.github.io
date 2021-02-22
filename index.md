@@ -9,13 +9,13 @@ Hi, I just completed my PhD in Computer Sciences on the topic of "Reinforcement 
 
 I am interested in Artificial Intelligence and was introduced to the field via the Reinforcement Learning (RL) paradigm. Currently, I am focusing on several different questions, including the following:
 - How to build RL algorithms that realize a trade-off between performance guarantees and level of approximation? Mostly, existing algorithms are ON/OFF, i.e. they are either exact/tabular and feature a high sample complexity, or they use function approximators that make them efficient but implies losing the performance guarantees. Could an in-between exist?
-- How to build good metrics to measure MDP similarities? Such a tool could be used to build efficient transfer learning methods (see [our work on Lifelong RL](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf)). A key point would be to learn to detect good features of MDPs that indicate the possibility of knowledge transfer.
+- How to build good metrics to measure MDP similarities? Such a tool could be used to build efficient transfer learning methods (see [our work on Lifelong RL](https://erwanlecarpentier.github.io/pdf/lecarpentier21lipschitz.pdf)). A key point would be to learn to detect good features of MDPs that indicate the possibility of knowledge transfer.
 - How to build efficient state and/or action abstractions to prune the complexity of an RL task? Precisely, I am interested in ways to formalize a good optimization criterion that would produce those abstractions. I am thinking about criteria that would be similar to the one human could use (e.g. bio-inspired), instead of criteria that would optimize directly an objective such as the discounted sum of rewards in an MDP.
 
 # Publications
 
 2021 Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, Michael L. Littman. Lipschitz Lifelong Reinforcement Learning. In Proceedings of the 35th AAAI Conference on Artificial Intelligence, AAAI 2021.<br/>
-[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier20lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
+[**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier21lipschitz.pdf) - [**arXiv**](https://arxiv.org/abs/2001.05411)
 
 2019 Erwan Lecarpentier and Emmanuel Rachelson. Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning. In Proceedings of the Thirty-third Conference on Neural Information Processing Systems, NeurIPS 2019.<br/>
 [**NeurIPS**](https://papers.nips.cc/paper/8942-non-stationary-markov-decision-processes-a-worst-case-approach-using-model-based-reinforcement-learning) - [**PDF**](https://erwanlecarpentier.github.io/pdf/lecarpentier19non.pdf) - [**arXiv**](https://arxiv.org/abs/1904.10090)

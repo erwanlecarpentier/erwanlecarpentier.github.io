@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Erwan Lecarpentier
-email: erwan.lecarpentier@isae-supaero.fr
+email: /img/mailbox.png
 logo: /img/er2_square.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   erwan.lecarpentier@isae-supaero.fr

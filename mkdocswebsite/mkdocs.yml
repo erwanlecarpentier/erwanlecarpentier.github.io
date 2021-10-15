@@ -1,0 +1,28 @@
+site_name: Erwan Lecarpentier
+site_url: https://erwanlecarpentier.github.io/
+nav:
+    - Home: index.md
+    - Publications: publications.md
+    - Projects: projects.md
+theme:
+    name: material # material bootstrap4 mkdocs cinder
+    # custom_dir: overrides
+    #favicon: "img/favicon.ico"
+    logo: img/none.png
+    favicon: img/favicon.png
+    palette:
+        primary: deep orange
+        accent: red
+        scheme: slate
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/erwanlecarpentier
+          name: See my Github page
+        - icon: fontawesome/solid/graduation-cap
+          link: https://scholar.google.fr/citations?user=jFtlb0oAAAAJ&hl=fr
+          name: See my Google Scholar page
+        - icon: fontawesome/solid/book
+          link: /pdf/cv_erwan_lecarpentier.pdf
+          name: See my CV
+plugins: []

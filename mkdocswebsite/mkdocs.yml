@@ -6,14 +6,17 @@ nav:
     - Projects: projects.md
 theme:
     name: material # material bootstrap4 mkdocs cinder
-    # custom_dir: overrides
-    #favicon: "img/favicon.ico"
-    logo: img/none.png
+    custom_dir: overrides
     favicon: img/favicon.png
     palette:
         primary: deep orange
         accent: red
         scheme: slate
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
     social:
         - icon: fontawesome/brands/github

@@ -17,6 +17,7 @@
 .myimage {
 	width:90%;
 	height:auto;
+	border-radius: 5px;
 }
 </style>
 

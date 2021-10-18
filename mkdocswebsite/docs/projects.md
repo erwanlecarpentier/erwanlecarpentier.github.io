@@ -50,7 +50,7 @@ Flatland is a C++ library for navigation tasks in 2D environments. The settings 
 <div class=wrapper>
 <div class=leftcol><img src="/img/glider.png" alt="Flying glider" class=myimage></div>
 <div class=rightcol>
-Learning2Fly is a C++ library simulating the flight of a glider UAV within a non-stationary atmosphere featuring thermal currents. The used dynamics model is borrowed from [Beeler et al. 2003](https://ntrs.nasa.gov/search.jsp?R=20040031358).
+Learning2Fly is a C++ library simulating the flight of a glider UAV within a non-stationary atmosphere featuring thermal currents. The used dynamics model is borrowed from <a href="https://ntrs.nasa.gov/search.jsp?R=20040031358">Beeler et al. 2003</a>.
 </div>
 </div>
 <span class=buttonsspan>

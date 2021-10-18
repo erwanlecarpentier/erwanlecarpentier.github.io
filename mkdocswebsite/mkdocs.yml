@@ -10,7 +10,7 @@ theme:
     favicon: img/favicon.png
     palette:
         primary: deep orange
-        accent: red
+        accent: orange
         scheme: slate
 markdown_extensions:
     - attr_list

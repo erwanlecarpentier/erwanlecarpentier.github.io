@@ -105,4 +105,4 @@ Journées Francophones Planification, Décision et Apprentissage, JFPDA 2017
 ## PhD Thesis (2020)
 
 Reinforcement Learning in Non-Stationary Environments. Erwan Lecarpentier. University of Toulouse, France. 2020
-[:material-file: PDF](/pdf/erwanlecarpentierphdthesis.pdf)
+[:material-file: PDF](/pdf/erwanlecarpentier-phdthesis.pdf)

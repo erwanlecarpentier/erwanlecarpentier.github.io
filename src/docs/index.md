@@ -21,12 +21,12 @@ Always happy to chat, send me an email at `erwanlecarpentier at mailbox dot org`
 <!--
 - [:fontawesome-brands-github: &nbsp; Github](https://github.com/erwanlecarpentier)
 - [:fontawesome-solid-graduation-cap: &nbsp; Scholar](https://scholar.google.fr/citations?user=jFtlb0oAAAAJ&hl=fr)
-- [:fontawesome-solid-book: &nbsp; CV](/pdf/cv_erwan_lecarpentier.pdf)
+- [:fontawesome-solid-book: &nbsp; CV](/pdf/erwanlecarpentier-cv.pdf)
 -->
 
 [:fontawesome-brands-github: &nbsp; Github](https://github.com/erwanlecarpentier){ .md-button .md-button--primary } &nbsp;
 [:fontawesome-solid-graduation-cap: &nbsp; Scholar](https://scholar.google.fr/citations?user=jFtlb0oAAAAJ&hl=fr){ .md-button .md-button--primary } &nbsp;
-[:fontawesome-solid-book: &nbsp; CV](/pdf/cv_erwan_lecarpentier.pdf){ .md-button .md-button--primary }
+[:fontawesome-solid-book: &nbsp; CV](/pdf/erwanlecarpentier-cv.pdf){ .md-button .md-button--primary }
 
 # News
 
@@ -36,4 +36,4 @@ Always happy to chat, send me an email at `erwanlecarpentier at mailbox dot org`
 
 * **January 2021** - I received a 2020 [PhD Thesis award](https://www.youtube.com/watch?v=Jlnd6jUMDi8) from the [Fondation ISAE-SUPAERO](https://www.fondation-isae-supaero.org/fr/page/isae-supaero-foundation.php)
 
-* **July 2020** - I defended my PhD thesis at University of Toulouse, I worked with [Emmanuel Rachelson](https://personnel.isae-supaero.fr/emmanuel-rachelson), [Guillaume Infantes](https://scholar.google.fr/citations?user=CyD_G68AAAAJ&hl=fr), and [Charles Lesire](https://sites.google.com/view/charles-lesire), in the [SuReLI team](https://sureli.github.io/), on the thesis of [Reinforcement Learning in Non-Stationary Environments](https://erwanlecarpentier.github.io/pdf/erwanlecarpentierphdthesis.pdf).
+* **July 2020** - I defended my PhD thesis at University of Toulouse, I worked with [Emmanuel Rachelson](https://personnel.isae-supaero.fr/emmanuel-rachelson), [Guillaume Infantes](https://scholar.google.fr/citations?user=CyD_G68AAAAJ&hl=fr), and [Charles Lesire](https://sites.google.com/view/charles-lesire), in the [SuReLI team](https://sureli.github.io/), on the thesis of [Reinforcement Learning in Non-Stationary Environments](https://erwanlecarpentier.github.io/pdf/erwanlecarpentier-phdthesis.pdf).

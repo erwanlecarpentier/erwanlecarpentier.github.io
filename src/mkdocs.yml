@@ -26,6 +26,6 @@ extra:
           link: https://scholar.google.fr/citations?user=jFtlb0oAAAAJ&hl=fr
           name: See my Google Scholar page
         - icon: fontawesome/solid/book
-          link: /pdf/cv_erwan_lecarpentier.pdf
+          link: /pdf/erwanlecarpentier-cv.pdf
           name: See my CV
 plugins: []

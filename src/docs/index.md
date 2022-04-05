@@ -11,8 +11,7 @@ I am a postdoc researcher interested in sequential decision making problems, esp
 </div>
 
 
-
-I am also interested in Evolutionary Strategies, Genetic Algorithms, Planning, Continual Learning, Unsupervized Learning, and, generally, proving mathematical results in algorithms that work in real life!
+I am also interested in Evolutionary Algorithms, Planning, Lifelong Learning, Unsupervized Learning, and, generally, proving mathematical results in algorithms that work in real life!
 
 Always happy to chat, send me an email at `erwanlecarpentier at mailbox dot org`
 
@@ -29,6 +28,8 @@ Always happy to chat, send me an email at `erwanlecarpentier at mailbox dot org`
 [:fontawesome-solid-book: &nbsp; CV](/pdf/erwanlecarpentier-cv.pdf){ .md-button .md-button--primary }
 
 # News
+
+* **April 2022** - I joined the [AI-ML team](https://www.upf.edu/web/ai-ml) at University of Pompeu Fabra as a post-doc researcher, working with [Anders Jonsson](https://www.upf.edu/web/anders-jonsson).
 
 * **April 2021** - I received the 2020 PhD Thesis award from the [French Association for Artificial Intelligence (AFIA)](https://afia.asso.fr/)
 

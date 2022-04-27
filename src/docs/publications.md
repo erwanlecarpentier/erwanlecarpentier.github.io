@@ -21,6 +21,22 @@
 }
 </style>
 
+## 2022
+
+<div class=wrapper>
+<div class=leftcol><img src="/img/lucie.png" alt="LUCIE" class=myimage></div>
+<div class=rightcol>
+LUCIE: An Evaluation and Selection Method for Stochastic Problems<br>
+Erwan Lecarpentier, Paul Templier, Emmanuel Rachelson, Dennis G. Wilson<br>
+GECCO, 2022
+</div>
+</div>
+<span class=buttonsspan>
+[:material-file: PDF](/pdf/lecarpentier22lucie.pdf) &nbsp;
+[:material-file: Appendix](/pdf/lecarpentier22lucie-appendix.pdf) &nbsp;
+[:fontawesome-brands-github: Code](https://github.com/TemplierPaul/pyUCEA)
+</span>
+
 ## 2021
 
 <div class=wrapper>

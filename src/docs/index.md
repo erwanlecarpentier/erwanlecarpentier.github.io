@@ -6,7 +6,7 @@
 </div>
 <div style="width: 65%; float:right;">
 <h1>Welcome!</h1>
-I am a postdoc researcher interested in sequential decision making problems, especially through the insight of Reinforcement Learning.
+I am a post-doc researcher interested in sequential decision making problems, especially through the insight of Reinforcement Learning.
 </div>
 </div>
 

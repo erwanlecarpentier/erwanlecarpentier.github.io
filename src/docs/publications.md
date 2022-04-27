@@ -28,7 +28,7 @@
 <div class=rightcol>
 LUCIE: An Evaluation and Selection Method for Stochastic Problems<br>
 Erwan Lecarpentier, Paul Templier, Emmanuel Rachelson, Dennis G. Wilson<br>
-GECCO, 2022
+In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO 2022
 </div>
 </div>
 <span class=buttonsspan>
